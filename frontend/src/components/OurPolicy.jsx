@@ -7,7 +7,7 @@ const OurPolicy = () => {
       
       <div>
         <img src={assets.exchange_icon} className='w-12 m-auto mb-5' alt="" />
-        <p className=' font-semibold'>Chính sách trao đổi dễ dàngdàng</p>
+        <p className=' font-semibold'>Chính sách trao đổi dễ dàng</p>
         <p className=' text-gray-400'>Chúnng tôi cung cấp chính sách trao đổi miễn phí</p>
       </div>
       <div>
